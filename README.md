@@ -4,15 +4,15 @@
 
 ### 1. Understand Dynatrace Basics (2 days)
 - **Task:** Explore the **Dynatrace platform**.
-  - Learn concepts like *one agent architecture*, *Smartscape topology*, and *automatic baselining*.
-- **Resources:** [Dynatrace Getting Started Guide](#)
+  - Learn concepts like [one agent architecture](https://docs.dynatrace.com/docs/ingest-from/dynatrace-oneagent), [Smartscape topology](https://www.dynatrace.com/platform/application-topology-discovery/smartscape/), and [automatic baselining](https://www.dynatrace.com/platform/artificial-intelligence/auto-baselining/).
+- **Resources:** [Dynatrace Getting Started Guide](https://docs.dynatrace.com/docs/discover-dynatrace/what-is-dynatrace)
 
 
 
 ### 2. Kubernetes Monitoring Basics (2 days)
 - **Task:** Study how **Kubernetes workloads** are structured.
   - Learn about nodes, pods, services, deployments, and how workloads scale.
-- **Resources:** [Kubernetes Documentation](#)
+- **Resources:** [Kubernetes Documentation](https://kubernetes.io/docs/concepts/overview/components/)
 
 
 
@@ -20,6 +20,9 @@
 - **Task:** Set up a basic **Kubernetes cluster** (e.g., with Minikube, EKS, or GKE).
   - Install tools like kubectl and helm.
 - **Deliverable:** A running cluster ready for Dynatrace integration.
+- **Resources:** 
+    1. [Default Options](https://kubernetes.io/docs/tasks/tools/)
+    2. [k3d](https://k3d.io/stable/#other-installers)
 
 ---
 
